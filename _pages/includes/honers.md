@@ -1,4 +1,4 @@
-## 🎖 Selected Awards & Honors
+## 🎖️ Selected Awards & Honors
 
 * **2024:** China Mobile Corporate Scholarship
 * **2023:** HUAWEI Fellowship for Outstanding Contribution
