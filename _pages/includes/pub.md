@@ -11,7 +11,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**BOFA: Orthogonal Low-Rank Bridge-Layer Fusion for CLIP-Based Class-Incremental Learning**. **Lan Li**, Da-Wei Zhou, Tao Hu, Jia-Qi Yang, Han-jia Ye, De-Chuan Zhan. (AAAI 2026)
+**BOFA: Orthogonal Low-Rank Bridge-Layer Fusion for CLIP-Based Class-Incremental Learning**. **Lan Li**, Da-Wei Zhou, Tao Hu, Jia-Qi Yang, Han-jia Ye, De-Chuan Zhan. AAAI 2026 (CCF-A).
 
 </div>
 </div>
@@ -26,7 +26,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**. **Lan Li**, Da-Wei Zhou, Han-jia Ye, De-Chuan Zhan. (ICML 2025)
+**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**. **Lan Li**, Da-Wei Zhou, Han-jia Ye, De-Chuan Zhan. [paper](https://arxiv.org/abs/2507.07100), [code](https://github.com/Lain810/DCE), ICML 2025 (CCF-A).
 
 
 </div>
@@ -42,7 +42,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Enhancing Class-Imbalanced Learning with Pre-trained Guidance through Class-Conditional Knowledge Distillation**. **Lan Li**, Xin-Chun Li, De-Chuan Zhan, Han-jia Ye. (ICML 2024)
+**Enhancing Class-Imbalanced Learning with Pre-trained Guidance through Class-Conditional Knowledge Distillation**. **Lan Li**, Xin-Chun Li, De-Chuan Zhan, Han-jia Ye. [paper](https://openreview.net/forum?id=O4nXWHPl6g), ICML 2024 (CCF-A).
 
 
 </div>
@@ -58,7 +58,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Twice Class Bias Correction for Imbalanced Semi-Supervised Learning**. **Lan Li**, Bo-wen Tao, Lu Han, De-Chuan Zhan, Han-jia Ye. (AAAI 2024) [paper](https://arxiv.org/abs/2312.16604)
+**Twice Class Bias Correction for Imbalanced Semi-Supervised Learning**. **Lan Li**, Bo-wen Tao, Lu Han, De-Chuan Zhan, Han-jia Ye. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29260), AAAI 2024 (CCF-A).
 
 </div>
 </div>
@@ -73,7 +73,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Aligning Model Outputs for Class Imbalanced Non-IID Federated Learning**. **Lan Li**, De-Chuan Zhan, Xin-Chun Li. (Machine Learning) [paper](https://link.springer.com/article/10.1007/s10994-022-06241-5)
+**Aligning Model Outputs for Class Imbalanced Non-IID Federated Learning**. **Lan Li**, De-Chuan Zhan, Xin-Chun Li. [paper](https://link.springer.com/article/10.1007/s10994-022-06241-5), Machine Learning (CCF-B). 
 
 </div>
 </div>
@@ -88,7 +88,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**CLAF: Contrastive Learning with Augmented Features for Imbalanced Semi-Supervised Learning**. Bowen Tao, **Lan Li**, Xin-Chun Li, De-Chuan Zhan. (ICASSP 2024) [paper](https://arxiv.org/abs/2312.09598)
+**CLAF: Contrastive Learning with Augmented Features for Imbalanced Semi-Supervised Learning**. Bowen Tao, **Lan Li**, Xin-Chun Li, De-Chuan Zhan. [paper](https://arxiv.org/abs/2312.09598), ICASSP 2024 (CCF-B).
 </div>
 </div>
 
@@ -102,11 +102,10 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**. Xin-Chun Li, Jin-Lin Tang, Bo Zhang, **Lan Li**, De-Chuan Zhan. (NeurIPS 2024) [paper](https://www.lamda.nju.edu.cn/lixc/papers/Valley-NeurIPS2024-Lixc.pdf)
+**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**. Xin-Chun Li, Jin-Lin Tang, Bo Zhang, **Lan Li**, De-Chuan Zhan. [paper](https://www.lamda.nju.edu.cn/lixc/papers/Valley-NeurIPS2024-Lixc.pdf), NeurIPS 2024 (CCF-A).
 </div>
 </div>
 
----
 
 ### 📚 Manuscripts
 
@@ -119,7 +118,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Preliminary Steps Towards Federated Sentiment Classification**. Xin-Chun Li, **Lan Li**, De-Chuan Zhan, Yunfeng Shao, Bingshuai Li, Shaoming Song. [paper](https://www.lamda.nju.edu.cn/lil/paper/FedSent-CoRR.pdf)
+**Preliminary Steps Towards Federated Sentiment Classification**. Xin-Chun Li, **Lan Li**, De-Chuan Zhan, Yunfeng Shao, Bingshuai Li, Shaoming Song. [paper](https://www.lamda.nju.edu.cn/lil/paper/FedSent-CoRR.pdf).
 
 </div>
 </div>
