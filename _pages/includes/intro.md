@@ -7,7 +7,7 @@ My research mainly focuses on machine learning, especially:
 ## Class-imbalanced Learning
 Class-imbalanced learning addresses the challenge of datasets with imbalanced class distributions, where one or more classes have significantly fewer instances compared to others.
 
-## Semi-Supervised Learning
+## Semi-supervised Learning
 Semi-supervised learning utilizes labeled data to ground predictions and unlabeled data to learn the larger data distribution, achieving strong results with fractions of labeled data.
 
 ## Federated Learning
