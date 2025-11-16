@@ -97,7 +97,7 @@
 <div class='paper-box-image'>
     <div>
         <div class="badge">NeurIPS 24</div>
-        <img src='image/NIPS24.png' alt="NeurIPS" width="300px">
+        <img src='images/paper/NIPS24.png' alt="NeurIPS" width="300px">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +114,7 @@
 <div class='paper-box-image'>
     <div>
         <div class="badge">CoRR</div>
-        <img src='image/Atxiv1.PNG' alt="CoRR" width="300px">
+        <img src='images/paper/Atxiv1.PNG' alt="CoRR" width="300px">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
