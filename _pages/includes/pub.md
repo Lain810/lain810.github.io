@@ -1,4 +1,4 @@
-## 📝 Selected Publications - Conference & Journal
+# 📝 Selected Publications
 
 <div class='paper-box'>
 <div class='paper-box-image'><img src='image/paper/AAAI26.PNG' alt="AAAI26" width="300px"></div>
