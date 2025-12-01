@@ -112,6 +112,23 @@
 <div class='paper-box'>
 <div class='paper-box-image'>
     <div>
+        <div class="badge">Arxiv</div>
+        <img src='images/paper/ovis.png' alt="Arxiv" width="300px">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Ovis-Image Technical Report**.  Wang, Guo-Hua and Cao, Liangfu and Cui, Tianyu and Fu, Minghao and Chen, Xiaohao and Zhan, Pengxin and Zhao, Jianshan and **Li, Lan** and Fu, Bowen and Liu, Jiaqi and Chen, Qing-Guo,
+ [paper](https://arxiv.org/pdf/2511.22982), [code](https://arxiv.org/pdf/2511.22982), [HF](https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B).
+
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
         <div class="badge">CoRR</div>
         <img src='images/paper/Atxiv1.PNG' alt="CoRR" width="300px">
     </div>
