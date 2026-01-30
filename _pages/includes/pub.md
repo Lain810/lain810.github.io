@@ -106,6 +106,18 @@
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">ICLR 26</div>
+        <img src='images/paper/ICLR26.png' alt="ICLR" width="300px">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**UniCA: Unified Covariate Adaptation for Time Series Foundation Model**. Lu Han, Yu Liu, **Lan Li**, Qiwen Deng, Jian Jiang, Yinbo sun, Zhe Yu, Binfeng Wang, Xingyu Lu, Lintao Ma, Han-Jia Ye, De-Chuan Zhan, ICLR 2026 (CCF-None).
+</div>
+</div>
 
 ### 📚 Manuscripts
 
