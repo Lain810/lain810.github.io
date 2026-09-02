@@ -15,5 +15,5 @@
 # 📬 Correspondence
 
 * **Email:** lil [at] lamda.nju.edu.cn, mrlilan [at] foxmail.com
-* **Office:** Room A201, Shaoyifu Building, Xianlin Campus of Nanjing University
-* **Address:** Lan Li, National Key Laboratory for Novel Software Technology, Nanjing University, Xianlin Campus Mailbox 603, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China
+* **Office:** 杭州市西湖区西溪路569号蚂蚁A空间
+* **Address:** Lan Li, 杭州市西湖区西溪路569号蚂蚁A空间
