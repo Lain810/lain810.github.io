@@ -82,6 +82,45 @@
 <div class='paper-box'>
 <div class='paper-box-image'>
     <div>
+        <div class="badge">NeurIPS 26</div>
+        <img src='images/paper/NIPS2026_1.png' alt="NeurIPS 2026 paper 1" width="300px">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning**. Tao Hu, **Lan Li**, Zhen-Hao Xie, Da-Wei Zhou. NeurIPS 2026 (CCF-A).
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">NeurIPS 26</div>
+        <img src='images/paper/NIPS2026_2.png' alt="NeurIPS 2026 paper 2" width="300px">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning**. Quan Cheng, Zhen-Hao Xie, **Lan Li**, Da-Wei Zhou, Lijun Zhang. [paper](https://openreview.net/forum?id=CHvh1192IA), NeurIPS 2026 (CCF-A).
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">ICLR 26</div>
+        <img src='images/paper/ICLR26.png' alt="ICLR" width="300px">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**UniCA: Unified Covariate Adaptation for Time Series Foundation Model**. Lu Han, Yu Liu, **Lan Li**, Qiwen Deng, Jian Jiang, Yinbo Sun, Zhe Yu, Binfeng Wang, Xingyu Lu, Lintao Ma, Han-jia Ye, De-Chuan Zhan, ICLR 2026 (CCF-None).
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
         <div class="badge">ICASSP 24</div>
         <img src='images/paper/ICASSP.jpg' alt="ICASSP" width="300px">
     </div>
@@ -91,7 +130,6 @@
 **CLAF: Contrastive Learning with Augmented Features for Imbalanced Semi-Supervised Learning**. Bowen Tao, **Lan Li**, Xin-Chun Li, De-Chuan Zhan. [paper](https://arxiv.org/abs/2312.09598), ICASSP 2024 (CCF-B).
 </div>
 </div>
-
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -106,19 +144,6 @@
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-    <div>
-        <div class="badge">ICLR 26</div>
-        <img src='images/paper/ICLR26.png' alt="ICLR" width="300px">
-    </div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-**UniCA: Unified Covariate Adaptation for Time Series Foundation Model**. Lu Han, Yu Liu, **Lan Li**, Qiwen Deng, Jian Jiang, Yinbo sun, Zhe Yu, Binfeng Wang, Xingyu Lu, Lintao Ma, Han-Jia Ye, De-Chuan Zhan, ICLR 2026 (CCF-None).
-</div>
-</div>
-
 ### 📚 Manuscripts
 
 <div class='paper-box'>
@@ -130,8 +155,7 @@
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Ovis-Image Technical Report**.  Wang, Guo-Hua and Cao, Liangfu and Cui, Tianyu and Fu, Minghao and Chen, Xiaohao and Zhan, Pengxin and Zhao, Jianshan and **Li, Lan** and Fu, Bowen and Liu, Jiaqi and Chen, Qing-Guo,
- [paper](https://arxiv.org/pdf/2511.22982), [code](https://arxiv.org/pdf/2511.22982), [HF](https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B).
+**Ovis-Image Technical Report**. Guo-Hua Wang, Liangfu Cao, Tianyu Cui, Minghao Fu, Xiaohao Chen, Pengxin Zhan, Jianshan Zhao, **Lan Li**, Bowen Fu, Jiaqi Liu, Qing-Guo Chen. [paper](https://arxiv.org/pdf/2511.22982), [HF](https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B).
 
 </div>
 </div>
